@@ -2,12 +2,20 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+# If extensions (or modules to document with autodoc) are in another directory,
+# add these directories to sys.path here. If the directory is relative to the
+# documentation root, use os.path.abspath to make it absolute, like shown here.
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
+#---- TODO: ---- 
+project = 'tryout'
+copyright = '2022, Mohan Zhang'
+author = 'Mohan Zhang'
 release = '0.1'
 version = '0.1.0'
+#---- TODO: ---- 
 
 # -- General configuration
 
@@ -17,6 +25,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.napoleon',
 ]
 
 intersphinx_mapping = {
