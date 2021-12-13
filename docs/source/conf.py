@@ -26,6 +26,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxcontrib.napoleon',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
@@ -42,10 +43,3 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-# to use markdown
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {'.md': CommonMarkParser}
-
-source_suffix = ['.rst', '.md']
