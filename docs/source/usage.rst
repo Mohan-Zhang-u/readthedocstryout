@@ -20,6 +20,10 @@ you can use the ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
 
+you can also use the ``lumache.a_new_func()`` function:
+
+.. autofunction:: lumache.a_new_func
+
 The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
 or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
