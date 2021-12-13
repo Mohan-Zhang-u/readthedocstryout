@@ -21,3 +21,14 @@ def get_random_ingredients(kind=None):
     :rtype: list[str]
     """
     return ["shells", "gorgonzola", "parsley"]
+
+def new_func(a=1):
+    """[summary]
+
+    Args:
+        a ([type]): [description]
+
+    Returns:
+        [type]: [description]
+    """
+    return a
