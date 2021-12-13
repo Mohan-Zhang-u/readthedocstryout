@@ -6,7 +6,7 @@ Some **text**!
 
 Foo in **Markdown**, which means we can do **inline *italics* like this**
 
-#### Markdown Lower Header
+### Markdown Lower Header
 
 More second-level content.
 
