@@ -1,3 +1,9 @@
 # how to build:
 
 sphinx-build -b html ./docs/source ./build
+
+TODO:
+change TODO in conf.py 
+change TODO in pyproject.toml
+change requirements.txt
+change .readthedocs.yml
