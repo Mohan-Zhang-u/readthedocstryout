@@ -69,5 +69,4 @@ myst_enable_extensions = [
     "tasklist",
 ]
 
-# myst_dmath_double_inline = True
-# myst_amsmath_enable = True
+myst_dmath_double_inline = True # for double enable new in 0.14.0
