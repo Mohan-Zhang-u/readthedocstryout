@@ -2,9 +2,7 @@
 requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
-#---- TODO: ---- 
 [project]
 name = "Project"
 authors = [{name = "Mohan Zhang", email = "mohanzhang@example.com"}]
 dynamic = ["version", "description"]
-#---- TODO: ---- 
