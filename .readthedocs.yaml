@@ -14,3 +14,7 @@ python:
   - method: pip
     path: .
   - requirements: docs/requirements.txt
+
+# formats: # for offline reading
+#   - pdf
+#   - epub
