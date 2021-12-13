@@ -52,6 +52,9 @@ def get_random_ingredients3(kind=None):
 
 def a_new_func(a, b=1):
     """[summary]
+    
+    .. math::
+        \sum_{i=1}^{\\infty} x_{i}
 
     Args:
         a ([type]): [description]
