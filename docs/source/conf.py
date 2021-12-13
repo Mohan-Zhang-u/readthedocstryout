@@ -2,13 +2,12 @@
 
 # -- Project information
 
-project = 'QuarticGym'
-copyright = '2021, Quartic.ai'
-author = 'Mohan Zhang'
+project = 'Lumache'
+copyright = '2021, Graziella'
+author = 'Graziella'
 
-release = 'latest'
-# release = '0.1'
-# version = '0.1.0'
+release = '0.1'
+version = '0.1.0'
 
 # -- General configuration
 
