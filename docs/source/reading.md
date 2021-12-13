@@ -22,3 +22,11 @@ Code blocks
 also, some latex:
 
 $$ a+b=c \pi \frac{\sqrt {3 \sum_{i=1}^{10}}x_i}{2} $$
+
+- A list
+- $$ a = 1 $$
+
+> A block quote
+> $$ a = 1 $$
+
+like whatever

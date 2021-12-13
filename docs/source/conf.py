@@ -68,3 +68,6 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
+
+myst_dmath_double_inline = True
+myst_amsmath_enable = True
